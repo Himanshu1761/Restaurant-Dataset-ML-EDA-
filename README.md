@@ -6,7 +6,8 @@ The goal of this project is to predict the aggregate rating of a restaurant base
 # Dataset Size
 In this dataset there are 9551 rows  and 21 columns.
 
-# In this Dataset we have done analysis based on different Levels. In this project contain Exploratory Data Analysis , Feature Selection, Feature Engineering, Machine Learning Models for analysis. The Levels are:
+#### In this Dataset we have done analysis based on different Levels. This project involves contain Exploratory Data Analysis, Feature Selection, Feature Engineering, Machine Learning Models for analysis. 
+The Levels are:
 
 ## Level-1:
 Task1: 
