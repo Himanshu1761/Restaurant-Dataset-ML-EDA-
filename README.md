@@ -64,4 +64,4 @@ Create visualizations to represent the distribution of ratings using different c
 Compare the average ratings of different cuisines or cities using appropriate visualizations.
 Visualize the relationship between various features and the target variable to gain insights.
 
-# Note: In this dataset, we have not treated the Outliers.
+### Note: In this dataset, Outliers have not been treated.
